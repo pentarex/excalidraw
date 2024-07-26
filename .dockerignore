@@ -7,5 +7,6 @@
 !package.json
 !public/
 !src/
+!tom/
 !tsconfig.json
 !yarn.lock
